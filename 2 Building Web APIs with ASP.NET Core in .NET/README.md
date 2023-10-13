@@ -10,7 +10,7 @@ O ASP.NET é um popular framework web desenvolvido pela Microsoft. Este caminho 
 
 ## Cursos no [LinkedIn Learning](https://www.linkedin.com/learning/paths/getting-started-as-an-asp-dot-net-developer)
 
-### Curso 1: [Learning ASP.NET](1 Learning ASP.NET)
+### Curso 1: [Learning ASP.NET](link-do-curso)
 - Instrutor: Janan Siam
 - Passos iniciais
 
