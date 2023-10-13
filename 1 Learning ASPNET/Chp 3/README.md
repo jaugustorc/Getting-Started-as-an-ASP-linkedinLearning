@@ -6,14 +6,10 @@ O ASP.NET é um popular framework web desenvolvido pela Microsoft. Este caminho 
 - Passos iniciais
 
 
-## Chp 2: Web Forms
-Implemente na solução um sistema de cadratros de bug/issues, onde o usúario ira fornecer:
-- nome
-- sobrenome
-- e-mail
-- descrição do problema
+## Chp 2: Web Pages
+Ajuste no rodapé:
+- Atualizar Razor UI
+- Adicionar contato no rodapé da pagina e navegar até ela.
+- Remover contato do menu item no cabeçalho
 
-Nota-se que os campos não devem estar em brancos
-
-![exemplo da tela](..\page.png)
 

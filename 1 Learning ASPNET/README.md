@@ -20,8 +20,9 @@ O ASP.NET é um popular framework web desenvolvido pela Microsoft. Este caminho 
 ### 1: Desenvolvimento Asp.Net  
 
 ### 2: Web Forms
-- [Projeto da webForms de suporte](1%20Learning%20ASPNET\Chp%202\Web%20Forms\README.md)
+- [Projeto da webForms de suporte](Chp%202\Web%20Forms\README.md)
 ### 3: Web Pages
+- [Projeto de web Pages, ajuste no rodapé](Chp%203\README.md)
 ### 4: MVC
 ### 5: trabalhando com dados
 ### 6: Web API
