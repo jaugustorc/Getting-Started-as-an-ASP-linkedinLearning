@@ -6,7 +6,7 @@ O ASP.NET é um popular framework web desenvolvido pela Microsoft. Este caminho 
 - Passos iniciais
 
 
-## Chp 2: Web Pages
+## Chp 3: Web Pages
 Ajuste no rodapé:
 - Atualizar Razor UI
 - Adicionar contato no rodapé da pagina e navegar até ela.

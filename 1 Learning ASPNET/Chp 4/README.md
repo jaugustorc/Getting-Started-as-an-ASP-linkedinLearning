@@ -6,10 +6,16 @@ O ASP.NET é um popular framework web desenvolvido pela Microsoft. Este caminho 
 - Passos iniciais
 
 
-## Chp 2: Web Pages
-Ajuste no rodapé:
-- Atualizar Razor UI
-- Adicionar contato no rodapé da pagina e navegar até ela.
-- Remover contato do menu item no cabeçalho
+## Chp 4: MVC
+Review de curso:
+- Adicionar capacidade de usuários poder fazer um review para os cursos
+-Cada review deverar conter:
+    - Nome do curso
+    - review
+    - curso é recomendado
+- Nome do curso e review são componentes ogrigratorios
+- A View terá um botão para criar o review
+- Depois que o review for criado, o usuário será encaminhado para a view curse
+
 
 
