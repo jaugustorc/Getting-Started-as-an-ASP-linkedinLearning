@@ -15,5 +15,5 @@ Implemente na solução um sistema de cadratros de bug/issues, onde o usúario i
 
 Nota-se que os campos não devem estar em brancos
 
-![exemplo da tela](..\page.png)
+![exemplo da tela](page.png)
 
