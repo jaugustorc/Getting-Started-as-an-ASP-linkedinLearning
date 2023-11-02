@@ -18,7 +18,7 @@ O ASP.NET é um popular framework web desenvolvido pela Microsoft. Este caminho 
 - Instrutor: Christian Wenz
 - Descubra como construir robustas Web APIs com o ASP.NET Core, o framework de código aberto para Windows, macOS e Linux.
 
-###  Curso 3: [ASP.NET: Security](3%20ASP.NET:%20Security/README.md)
+###  Curso 3: [ASP.NET: Security](3%20ASP.NET:%20Security)
 - Instrutor: Christian Wenz
 - Aprenda sobre vulnerabilidades comuns em aplicações web ASP.NET e soluções práticas de segurança para mitigar os riscos.
 
