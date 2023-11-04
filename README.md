@@ -14,7 +14,7 @@ O ASP.NET é um popular framework web desenvolvido pela Microsoft. Este caminho 
 - Instrutor: Janan Siam
 - Passos iniciais
 
-###  Curso 2: [Building Web APIs with ASP.NET Core in .NET](2%20Building%20Web%20APIs%20with%20ASP.NET%20Core%20in%20.NET)
+### :white_check_mark: Curso 2: [Building Web APIs with ASP.NET Core in .NET](2%20Building%20Web%20APIs%20with%20ASP.NET%20Core%20in%20.NET)
 - Instrutor: Christian Wenz
 - Descubra como construir robustas Web APIs com o ASP.NET Core, o framework de código aberto para Windows, macOS e Linux.
 
